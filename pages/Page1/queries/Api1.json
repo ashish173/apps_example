@@ -28,7 +28,7 @@
         },
         "pagination": {
           "data": {
-            "limit": "20",
+            "limit": "25",
             "offset": "0"
           }
         },
