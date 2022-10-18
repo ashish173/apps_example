@@ -170,7 +170,7 @@
                       "hideCard": false,
                       "animateLoading": true,
                       "parentColumnSpace": 16.3125,
-                      "leftColumn": 2,
+                      "leftColumn": 1,
                       "dynamicBindingPathList": [
                         {
                           "key": "borderRadius"
