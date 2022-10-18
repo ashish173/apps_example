@@ -170,7 +170,7 @@
                       "hideCard": false,
                       "animateLoading": true,
                       "parentColumnSpace": 16.3125,
-                      "leftColumn": 5,
+                      "leftColumn": 3,
                       "dynamicBindingPathList": [
                         {
                           "key": "borderRadius"
@@ -313,7 +313,7 @@
                           "key": "primaryColumns.rowIndex.computedValue"
                         }
                       ],
-                      "leftColumn": 5,
+                      "leftColumn": 3,
                       "delimiter": ",",
                       "defaultSelectedRowIndex": 0,
                       "accentColor": "{{appsmith.theme.colors.primaryColor}}",
